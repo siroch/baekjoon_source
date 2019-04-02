@@ -1,7 +1,3 @@
-#BaekJoon OnlineJudge
-
-##Language
-
 | Language | source |
 |------|------|
 | C | 39 |
